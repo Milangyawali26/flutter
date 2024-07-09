@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175870162528",
+    "project_id": "milan-csit-6th-sem",
+    "storage_bucket": "milan-csit-6th-sem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175870162528:android:7cb356eaf9d77743ee3505",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZknIk_gwgvbkl9BGNciHVpr_GJnWKtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
