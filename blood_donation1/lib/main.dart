@@ -8,7 +8,6 @@ import 'package:flutter_application_1/Signup.dart';
 import 'package:flutter_application_1/Splash.dart';
 import 'package:flutter_application_1/firebase_options.dart';
 import 'package:flutter_application_1/homepage.dart';
-
 import 'package:flutter_application_1/login.dart';
 import 'package:flutter_application_1/profile.dart';
 
